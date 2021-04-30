@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16in"
+   height="9in"
+   viewBox="0 0 406.40001 228.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="spark-memory.svg"
+   inkscape:export-filename="/home/pierre/Documents/notes/spark/talk/png/spark-memory.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="759.11576"
+     inkscape:cy="378.64827"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-68.399994)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3963"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3965"><rect
+           id="rect3967"
+           width="192.85715"
+           height="337.85715"
+           x="562.85712"
+           y="161.85715" /></flowRegion><flowPara
+         id="flowPara3969" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4143"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4145"><rect
+           id="rect4147"
+           width="168.57143"
+           height="178.57143"
+           x="657.14288"
+           y="116.85714" /></flowRegion><flowPara
+         id="flowPara4149" /></flowRoot>    <rect
+       style="opacity:0.95999995;fill:#ff2a2a;fill-opacity:0;stroke:#000000;stroke-width:0.58099997;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect852"
+       width="332.11127"
+       height="160.89627"
+       x="54.136463"
+       y="99.757469"
+       rx="6.7218451"
+       ry="3.8069308" />
+    <rect
+       ry="3.6322746"
+       rx="6.4134569"
+       y="103.4483"
+       x="149.22752"
+       height="153.51459"
+       width="221.56871"
+       id="rect854"
+       style="opacity:0.95999995;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:0.55434459;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:0.95999995;fill:#afe9c6;fill-opacity:1;stroke:#000000;stroke-width:0.55434459;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect856"
+       width="85.724976"
+       height="153.51459"
+       x="59.269211"
+       y="103.4483"
+       rx="6.4134569"
+       ry="3.6322746" />
+    <rect
+       style="opacity:0.95999995;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.52000839;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect864"
+       width="17.873865"
+       height="144.00589"
+       x="337.32913"
+       y="108.20264"
+       rx="6.0162063"
+       ry="3.4072909" />
+    <rect
+       ry="3.4072909"
+       rx="6.0162063"
+       y="108.20264"
+       x="260.33536"
+       height="144.00589"
+       width="72.378029"
+       id="rect866"
+       style="opacity:0.95999995;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.52000839;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.52000839;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect868"
+       width="100.42385"
+       height="144.00589"
+       x="155.29576"
+       y="108.20264"
+       rx="6.0162063"
+       ry="3.4072909" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-252.60176"
+       y="381.23145"
+       id="text880"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan878"
+         x="-252.60176"
+         y="381.23145"
+         style="font-size:7.76111126px;stroke-width:0.26458332">Container</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text884"
+       y="365.35648"
+       x="-251.76425"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="365.35648"
+         x="-251.76425"
+         id="tspan882"
+         sodipodi:role="line">JVM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-249.15526"
+       y="348.4072"
+       id="text888"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan886"
+         x="-249.15526"
+         y="348.4072"
+         style="font-size:7.76111126px;stroke-width:0.26458332">Reserverd memory</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text892"
+       y="326.59219"
+       x="-249.0681"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="326.59219"
+         x="-249.0681"
+         id="tspan890"
+         sodipodi:role="line">User memory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-248.90515"
+       y="249.98219"
+       id="text896"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         x="-248.90515"
+         y="249.98219"
+         style="font-size:7.76111126px;stroke-width:0.26458332">Spark (on-heap) memory</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text900"
+       y="139.19783"
+       x="-249.15526"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="139.19783"
+         x="-249.15526"
+         id="tspan898"
+         sodipodi:role="line">Memory overhead</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.38999982, 3.38999982;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 205.50768,113.22784 V 247.18332"
+       id="path904"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.261389,97.158013 v -5.423959 h 83.740621 v 5.688541"
+       id="path1783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1785"
+       d="m 150.6728,97.224159 v -5.490105 h 218.67815 v 5.688541"
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 355.06346,266.55757 v 5.49011 h -17.59481 v -5.68854"
+       id="path1787"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1789"
+       d="m 253.99258,266.55757 v 5.49011 h -96.96981 v -5.68854"
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.770367"
+       y="84.854889"
+       id="text1793"><tspan
+         sodipodi:role="line"
+         id="tspan1791"
+         x="21.770367"
+         y="84.854889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">max(384MB, 0.1*spark.driver.memory)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.59904"
+       y="84.854889"
+       id="text1797"><tspan
+         sodipodi:role="line"
+         id="tspan1795"
+         x="215.59904"
+         y="84.854889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">spark.driver.memory</tspan></text>
+    <text
+       id="text1801"
+       y="284.58475"
+       x="334.48688"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+         y="284.58475"
+         x="334.48688"
+         id="tspan1799"
+         sodipodi:role="line">300MB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.213882"
+       y="283.94446"
+       id="text1805"><tspan
+         sodipodi:role="line"
+         id="tspan1803"
+         x="92.213882"
+         y="283.94446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">spark.memory.fraction*(spark.driver.memory-300MB)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.770709"
+       y="271.00308"
+       id="text1809"><tspan
+         sodipodi:role="line"
+         id="tspan1807"
+         x="13.770709"
+         y="271.00308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">spark.memory.storageFraction</tspan></text>
+    <g
+       id="g1829"
+       transform="translate(13.275149,3.7548943)">
+      <text
+         id="text1813"
+         y="115.52399"
+         x="153.22562"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="115.52399"
+           x="153.22562"
+           id="tspan1811"
+           sodipodi:role="line">Storage</tspan><tspan
+           id="tspan1815"
+           style="stroke-width:0.26458332"
+           y="124.34343"
+           x="153.22562"
+           sodipodi:role="line">memory</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="201.49449"
+         y="116.08525"
+         id="text1821"><tspan
+           sodipodi:role="line"
+           id="tspan1817"
+           x="201.49449"
+           y="116.08525"
+           style="stroke-width:0.26458332">Working</tspan><tspan
+           sodipodi:role="line"
+           x="201.49449"
+           y="124.90469"
+           style="stroke-width:0.26458332"
+           id="tspan1819">memory</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 145.83294,268.93101 178.9888,233.5061"
+       id="path1831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

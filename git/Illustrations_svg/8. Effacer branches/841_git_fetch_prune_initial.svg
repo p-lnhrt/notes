@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="292.10001mm"
+   height="120.9mm"
+   viewBox="0 0 292.10001 120.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="841_git_fetch_prune_initial.svg"
+   inkscape:export-filename="C:\Users\t053351\Documents\Presentation_git\Illustrations_png\8. Effacer branches\841_git_fetch_prune_initial.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="579.87128"
+     inkscape:cy="207.3618"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="292.1mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Aux"
+     style="display:none">
+    <path
+       style="fill:#d5e5ff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 248.04713,14.04822 h 19.82839 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17132,-2.15526 h -6.74287 z"
+       id="rect4546-9-0-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:label="Main"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-176.1)"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -39.990646,193.31479 h 19.828401 v 7.26631 h -6.712104 l -3.202101,2.15526 -3.171312,-2.15526 h -6.742885 z"
+       id="rect4546-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -47.825513,180.4636 h 34.364206 v 7.26631 h -13.980006 l -3.202101,2.15526 -3.171312,-2.15526 h -14.010787 z"
+       id="rect4546-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.333685"
+       y="185.28134"
+       id="text5313"><tspan
+         sodipodi:role="line"
+         id="tspan5311"
+         x="29.333685"
+         y="185.28134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">local</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="237.15962"
+       y="185.28134"
+       id="text5313-3"><tspan
+         sodipodi:role="line"
+         id="tspan5311-6"
+         x="237.15962"
+         y="185.28134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">remote</tspan></text>
+    <text
+       id="text2122"
+       y="185.28134"
+       x="146.03346"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:10px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:10px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="185.28134"
+         x="146.03346"
+         id="tspan2120"
+         sodipodi:role="line">État initial</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:10px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="195.3456"
+         x="146.03346"
+         sodipodi:role="line"
+         id="tspan4678" /></text>
+    <g
+       id="g11596"
+       transform="translate(0,-0.54806519)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4589"
+         d="m 183.2742,267.84902 h 89.58035"
+         style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none"
+         r="6.1378236"
+         cy="267.849"
+         cx="199.05557"
+         id="path3688" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none"
+         r="6.1378241"
+         cy="267.849"
+         cx="223.77802"
+         id="path3688-9" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none"
+         r="6.1378241"
+         cy="267.849"
+         cx="248.50044"
+         id="path3688-0" />
+      <text
+         id="text5109-6"
+         y="280.40289"
+         x="193.35912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332"
+           y="280.40289"
+           x="193.35912"
+           id="tspan5107-2"
+           sodipodi:role="line">a58h6c</tspan></text>
+      <text
+         id="text5109-6-1"
+         y="279.73282"
+         x="218.24864"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332"
+           y="279.73282"
+           x="218.24864"
+           id="tspan5107-2-8"
+           sodipodi:role="line">bt4g3h</tspan></text>
+      <text
+         id="text5109-6-1-8"
+         y="279.75177"
+         x="242.9926"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332"
+           y="279.75177"
+           x="242.9926"
+           id="tspan5107-2-8-4"
+           sodipodi:role="line">c1th8y</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4546-9-0-6-1-4"
+         d="m 263.30867,249.17846 h 19.82839 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17132,-2.15526 h -6.74287 z"
+         style="display:inline;fill:#d5e5ff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text4953-9-2"
+         y="254.09789"
+         x="267.185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+           y="254.09789"
+           x="267.185"
+           id="tspan4951-8-3"
+           sodipodi:role="line">master</tspan></text>
+      <path
+         style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 263.30868,237.30353 h 19.8284 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17131,-2.15526 h -6.74289 z"
+         id="path1458"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="267.56122"
+         y="242.56783"
+         id="text1462"><tspan
+           sodipodi:role="line"
+           id="tspan1460"
+           x="267.56122"
+           y="242.56783"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">HEAD</tspan></text>
+      <circle
+         id="circle256"
+         cx="273.22287"
+         cy="267.849"
+         r="6.1378241"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="267.39203"
+         y="279.75177"
+         id="text266"><tspan
+           sodipodi:role="line"
+           id="tspan264"
+           x="267.39203"
+           y="279.75177"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332">d34ck9</tspan></text>
+    </g>
+    <g
+       id="g1431"
+       transform="translate(-58.93107,11.333735)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4546-9-8-7"
+         d="m 90.915716,204.14521 h 34.364204 v 7.26631 h -13.98001 l -3.2021,2.15526 -3.17131,-2.15526 H 90.915716 Z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text4953-6"
+         y="209.11957"
+         x="96.591553"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+           y="209.11957"
+           x="96.591553"
+           id="tspan4951-6"
+           sodipodi:role="line">origin/feature</tspan></text>
+    </g>
+    <g
+       id="g1441"
+       transform="translate(-184.5809,11.333735)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4546-9-8-7-5"
+         d="m 250.92975,280.37051 h -34.3642 v -7.26631 h 13.98 l 3.2021,-2.15526 3.17132,2.15526 h 14.01078 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text4953-6-9"
+         y="278.07297"
+         x="221.46829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.13229167px;stroke-width:0.26458332"
+           y="278.07297"
+           x="221.46829"
+           id="tspan4951-6-8"
+           sodipodi:role="line">origin/master</tspan></text>
+    </g>
+    <path
+       style="fill:#d5e5ff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 39.25254,248.94518 h 19.82841 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17132,-2.15526 h -6.74289 z"
+       id="rect4546-9-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.128872"
+       y="253.51056"
+       id="text4953-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan4951-6-4"
+         x="43.128872"
+         y="253.51056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">master</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.586876,267.31988 c 7.36332,-13.87715 2.26672,-32.47325 22.37263,-32.47325 v 0"
+       id="path4589-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.662936,267.31987 H 49.295374"
+       id="path4589-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       id="path3688-7"
+       cx="24.444307"
+       cy="267.31985"
+       r="6.1378236"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       id="path3688-9-73"
+       cx="49.166748"
+       cy="267.31985"
+       r="6.1378241"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       id="path3688-8-0"
+       cx="49.166748"
+       cy="234.17851"
+       r="6.1378241"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.98421097;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.633057"
+       y="246.83704"
+       id="text5109-7"><tspan
+         sodipodi:role="line"
+         id="tspan5107-27"
+         x="43.633057"
+         y="246.83704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332">xr2a8u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.747835"
+       y="279.87378"
+       id="text5109-6-16"><tspan
+         sodipodi:role="line"
+         id="tspan5107-2-84"
+         x="18.747835"
+         y="279.87378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332">a58h6c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.637375"
+       y="279.2037"
+       id="text5109-6-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan5107-2-8-5"
+         x="43.637375"
+         y="279.2037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.26458332px;stroke-width:0.26458332">bt4g3h</tspan></text>
+    <g
+       id="g252"
+       transform="translate(-21.220588,11.416245)">
+      <g
+         transform="translate(-5.9742849,-11.724176)"
+         id="g1426">
+        <path
+           style="display:inline;fill:#d5e5ff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 66.44742,204.14521 h 19.8284 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17132,-2.15526 h -6.74288 z"
+           id="rect4546-9-0-4-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="70.409523"
+           y="209.30858"
+           id="text4953-1"><tspan
+             sodipodi:role="line"
+             id="tspan4951-2"
+             x="70.409523"
+             y="209.30858"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">feature</tspan></text>
+      </g>
+      <g
+         id="g1259">
+        <path
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="path1250"
+           d="m 60.473137,180.69686 h 19.8284 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17131,-2.15526 h -6.74289 z"
+           style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text1254"
+           y="185.96115"
+           x="64.725662"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+             y="185.96115"
+             x="64.725662"
+             id="tspan1252"
+             sodipodi:role="line">HEAD</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="203.24895"
+       y="214.22322"
+       id="text11571"><tspan
+         sodipodi:role="line"
+         id="tspan11569"
+         x="203.24895"
+         y="214.22322"
+         style="font-size:6.3499999px;stroke-width:0.26458332">La branche <tspan
+   style="-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan11598">feature</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="203.24895"
+         y="221.44598"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan11573">n'existe plus sur le</tspan><tspan
+         sodipodi:role="line"
+         x="203.24895"
+         y="228.66875"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan11575">dépôt distant</tspan></text>
+  </g>
+</svg>

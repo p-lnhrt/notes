@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="292.10001mm"
+   height="120.9mm"
+   viewBox="0 0 292.10001 120.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="332_non_fast_forward_history.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="464.79206"
+     inkscape:cy="304.51082"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="292.1mm"
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Aux"
+     style="display:none">
+    <path
+       style="fill:#d5e5ff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 248.04713,14.04822 h 19.82839 v 7.26631 h -6.7121 l -3.2021,2.15526 -3.17132,-2.15526 h -6.74287 z"
+       id="rect4546-9-0-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:label="Main"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-176.1)"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -39.990646,193.31479 h 19.828401 v 7.26631 h -6.712104 l -3.202101,2.15526 -3.171312,-2.15526 h -6.742885 z"
+       id="rect4546-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -47.825513,180.4636 h 34.364206 v 7.26631 h -13.980006 l -3.202101,2.15526 -3.171312,-2.15526 h -14.010787 z"
+       id="rect4546-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.486516"
+       y="206.36919"
+       id="text6618"><tspan
+         sodipodi:role="line"
+         id="tspan6616"
+         x="9.486516"
+         y="206.36919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:8.60999966px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332">Historique du commit</tspan><tspan
+         sodipodi:role="line"
+         x="9.486516"
+         y="214.97919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:8.60999966px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+         id="tspan8270">de origin/feature</tspan></text>
+    <text
+       id="text6622"
+       y="254.93057"
+       x="9.486516"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:8.60999966px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+         y="254.93057"
+         x="9.486516"
+         id="tspan6620"
+         sodipodi:role="line">Historique du commit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:8.60999966px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';stroke-width:0.26458332"
+         y="263.54056"
+         x="9.486516"
+         sodipodi:role="line"
+         id="tspan8272">de feature</tspan></text>
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.52379602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 247.85439,206.81495 a 10.579686,10.579686 0 0 0 -10.57972,10.57972 10.579686,10.579686 0 0 0 10.57972,10.57972 10.579686,10.579686 0 0 0 10.57971,-10.57972 10.579686,10.579686 0 0 0 -10.57971,-10.57972 z m -4.80694,4.56045 4.80694,4.80694 4.80642,-4.80694 1.21285,1.21284 -4.80694,4.80643 4.80694,4.80694 -1.21285,1.21285 -4.80642,-4.80643 -4.80694,4.80643 -1.21285,-1.21285 4.80643,-4.80694 -4.80643,-4.80643 z"
+       id="path9598"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff5555;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 230.87955,245.40625 v 39.11863 h -33.79456 v -95.94976 h 33.79456 v 37.93232"
+       id="rect6739"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="225.24243"
+       y="238.80722"
+       id="text6785"><tspan
+         sodipodi:role="line"
+         id="tspan6783"
+         x="225.24243"
+         y="238.80722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#ff5555;stroke-width:0.26458332">Non fast-forward</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.244283,256.38098 H 245.82833"
+       id="path4589-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       id="path3688-8"
+       cx="118.49856"
+       cy="256.38098"
+       r="7.9019036"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       id="path3688-9-7"
+       cx="150.32651"
+       cy="256.72507"
+       r="7.9019046"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       x="143.20238"
+       y="272.6777"
+       id="text5109"><tspan
+         sodipodi:role="line"
+         id="tspan5107"
+         x="143.20238"
+         y="272.6777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758">xr2a8u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       x="176.78067"
+       y="271.83945"
+       id="text5109-9"><tspan
+         sodipodi:role="line"
+         id="tspan5107-7"
+         x="176.78067"
+         y="271.83945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758">yf5z9</tspan></text>
+    <circle
+       id="circle6977"
+       cx="182.15442"
+       cy="256.38098"
+       r="7.9019046"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5217"
+       d="M 95.244283,208.75595 H 213.48871"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none"
+       r="7.9019046"
+       cy="208.92798"
+       cx="213.98227"
+       id="circle6979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       x="206.45676"
+       y="224.71896"
+       id="text7018"><tspan
+         sodipodi:role="line"
+         id="tspan7016"
+         x="206.45676"
+         y="224.71896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758">z7d63x</tspan></text>
+    <text
+       id="text7022"
+       y="272.67993"
+       x="206.8149"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758"
+         y="272.67993"
+         x="206.8149"
+         id="tspan7020"
+         sodipodi:role="line">u8fb90</tspan></text>
+    <text
+       id="text5225"
+       y="225.0527"
+       x="143.20238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758"
+         y="225.0527"
+         x="143.20238"
+         id="tspan5223"
+         sodipodi:role="line">xr2a8u</tspan></text>
+    <text
+       id="text5229"
+       y="224.21445"
+       x="176.78069"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758"
+         y="224.21445"
+         x="176.78069"
+         id="tspan5227"
+         sodipodi:role="line">yf5z9</tspan></text>
+    <g
+       id="g8268"
+       transform="translate(-24.414268,-7.5653976)">
+      <circle
+         id="circle5219"
+         cx="142.91283"
+         cy="216.32133"
+         r="7.9019036"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         id="circle5221"
+         cx="174.74075"
+         cy="216.66542"
+         r="7.9019046"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none"
+         r="7.9019046"
+         cy="216.66542"
+         cx="206.56868"
+         id="circle8185" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       x="111.16486"
+       y="225.0527"
+       id="text8195"><tspan
+         sodipodi:role="line"
+         id="tspan8193"
+         x="111.16486"
+         y="225.0527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758">a58h6c</tspan></text>
+    <circle
+       id="circle8199"
+       cx="213.98227"
+       cy="256.38098"
+       r="7.9019046"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text8209"
+       y="272.6777"
+       x="111.16486"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758"
+         y="272.6777"
+         x="111.16486"
+         id="tspan8207"
+         sodipodi:role="line">a58h6c</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26708436;stroke-miterlimit:4;stroke-dasharray:none"
+       r="7.9019046"
+       cy="256.38098"
+       cx="245.81012"
+       id="circle9584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.62510204px;line-height:8.51568985px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34062758"
+       x="239.03194"
+       y="272.67993"
+       id="text9594"><tspan
+         sodipodi:role="line"
+         id="tspan9592"
+         x="239.03194"
+         y="272.67993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54170084px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0.34062758px;stroke-width:0.34062758">v2r5th</tspan></text>
+  </g>
+</svg>

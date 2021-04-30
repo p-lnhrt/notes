@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16in"
+   height="9in"
+   viewBox="0 0 406.40001 228.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="dag.svg"
+   inkscape:export-filename="/home/pierre/Documents/notes/spark/talk/png/catalyst.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45572917"
+     inkscape:cx="495.34164"
+     inkscape:cy="291.517"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4397"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Physical DAG"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-68.399994)"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3963"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono'"><rect
+           id="rect3967"
+           width="192.85715"
+           height="337.85715"
+           x="562.85712"
+           y="161.85715"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono'" /></flowRegion><flowPara
+         id="flowPara3969" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono'"><rect
+           id="rect4147"
+           width="168.57143"
+           height="178.57143"
+           x="657.14288"
+           y="116.85714"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono'" /></flowRegion><flowPara
+         id="flowPara4149" /></flowRoot>    <g
+       transform="translate(-63.556146,-19.137899)"
+       id="g2905">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2889"
+         width="82.14975"
+         height="28.348562"
+         x="67.783882"
+         y="95.728493"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <g
+         id="g2903"
+         transform="translate(0,4.0714887)">
+        <g
+           id="g2901"
+           transform="translate(-4.7103968e-6,-0.71842672)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="69.937622"
+             y="104.21275"
+             id="text2895"><tspan
+               sodipodi:role="line"
+               id="tspan2891"
+               x="69.937622"
+               y="104.21275"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">InMemoryTableScan</tspan><tspan
+               sodipodi:role="line"
+               x="69.937622"
+               y="113.91414"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+               id="tspan2893" /></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="83.083748"
+             y="113.33973"
+             id="text2899"><tspan
+               sodipodi:role="line"
+               id="tspan2897"
+               x="83.083748"
+               y="113.33973"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">flight_data</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2907"
+       width="147.97775"
+       height="45.765709"
+       x="98.346596"
+       y="76.590599"
+       rx="2.6011376"
+       ry="2.3159833" />
+    <g
+       id="g3539"
+       transform="translate(-76.04481,29.743766)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2939"
+         width="82.14975"
+         height="28.348562"
+         x="148.40739"
+         y="171.89359"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="162.92282"
+         y="188.2393"
+         id="text2943"><tspan
+           sodipodi:role="line"
+           id="tspan2941"
+           x="162.92282"
+           y="188.2393"
+           style="font-size:7.76111126px;stroke-width:0.26458332">BroadcastJoin</tspan></text>
+    </g>
+    <text
+       id="text3091"
+       y="189.03165"
+       x="185.55774"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="195.89841"
+         x="185.55774"
+         id="tspan3089"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 328.40802,254.79083 0.0254,-20.5762"
+       id="path2947"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g2989"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,339.04774,246.7756)">
+      <title
+         id="title2985">Buffer Small</title>
+      <path
+         id="path2987"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <g
+       transform="matrix(0,0.80330207,-0.80330207,0,295.338,107.88469)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g2995">
+      <title
+         id="title2991">Buffer Small</title>
+    </g>
+    <g
+       id="g3345"
+       transform="translate(-43.583776,-0.81501005)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="191.03102"
+         y="88.824387"
+         id="text2913"><tspan
+           sodipodi:role="line"
+           x="191.03102"
+           y="88.824387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+           id="tspan2909">CSV FileScan</tspan><tspan
+           sodipodi:role="line"
+           x="191.03102"
+           y="98.525772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+           id="tspan2911" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="170.94762"
+         y="97.158432"
+         id="text2917"><tspan
+           sodipodi:role="line"
+           id="tspan2915"
+           x="170.94762"
+           y="97.158432"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">./data/airports.csv</tspan></text>
+      <g
+         transform="translate(-196.9007,19.100421)"
+         id="g3223">
+        <g
+           id="g3205"
+           transform="translate(0,-10.667542)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="342.05545"
+             y="99.491928"
+             id="text2961"><tspan
+               sodipodi:role="line"
+               id="tspan2959"
+               x="342.05545"
+               y="99.491928"
+               style="font-size:7.76111126px;stroke-width:0.26458332">PushedFilters</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="401.51801"
+             y="98.72123"
+             id="text2965"><tspan
+               sodipodi:role="line"
+               id="tspan2963"
+               x="401.51801"
+               y="98.72123"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">state=TX</tspan></text>
+        </g>
+        <g
+           id="g3211"
+           transform="translate(0,-12.652245)">
+          <text
+             id="text3111"
+             y="109.75742"
+             x="376.40698"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan3109"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+               y="109.75742"
+               x="376.40698"
+               sodipodi:role="line">airport_id, state, name</tspan></text>
+          <text
+             id="text3095"
+             y="110.57613"
+             x="342.466"
+             style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-size:7.76111126px;stroke-width:0.26458332"
+               y="110.57613"
+               x="342.466"
+               id="tspan3093"
+               sodipodi:role="line">Fields</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="319.79974"
+       y="202.57901"
+       id="text3155"><tspan
+         sodipodi:role="line"
+         id="tspan3153"
+         x="319.79974"
+         y="209.44577"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2949"
+       width="145.37074"
+       height="36.764343"
+       x="255.73535"
+       y="83.46978"
+       rx="2.6011376"
+       ry="2.3159833" />
+    <text
+       id="text2953"
+       y="92.548363"
+       x="308.36044"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="92.548363"
+         x="308.36044"
+         id="tspan2951"
+         sodipodi:role="line">Aggregate</tspan></text>
+    <g
+       transform="translate(-11.18302,-99.116103)"
+       id="g3243">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="270.62396"
+         y="213.72258"
+         id="text3135"><tspan
+           sodipodi:role="line"
+           id="tspan3133"
+           x="270.62396"
+           y="213.72258"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Functions</tspan></text>
+      <text
+         id="text3139"
+         y="202.03731"
+         x="270.62396"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="202.03731"
+           x="270.62396"
+           id="tspan3137"
+           sodipodi:role="line">Keys</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="313.18597"
+         y="212.5289"
+         id="text3151"><tspan
+           sodipodi:role="line"
+           x="313.18597"
+           y="212.5289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+           id="tspan3149">state, airport_name</tspan></text>
+      <text
+         id="text3159"
+         y="201.71524"
+         x="313.81464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan3157"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+           y="201.71524"
+           x="313.81464"
+           sodipodi:role="line">partial_max(DepDelay)</tspan></text>
+    </g>
+    <rect
+       ry="2.3159833"
+       rx="2.6011376"
+       y="146.60751"
+       x="255.73534"
+       height="24.448542"
+       width="145.37076"
+       id="rect3488"
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g3278"
+       transform="translate(-93.719452,68.222274)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="402.98752"
+         y="88.072151"
+         id="text3247"><tspan
+           sodipodi:role="line"
+           id="tspan3245"
+           x="402.98752"
+           y="88.072151"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Exchange</tspan></text>
+      <g
+         transform="translate(0,-6.2110819)"
+         id="g3269">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="352.06192"
+           y="103.64021"
+           id="text3163"><tspan
+             sodipodi:role="line"
+             id="tspan3161"
+             x="352.06192"
+             y="103.64021"
+             style="font-size:7.76111126px;stroke-width:0.26458332">Partitioning</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="403.65549"
+           y="103.19877"
+           id="text3167"><tspan
+             sodipodi:role="line"
+             x="403.65549"
+             y="103.19877"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+             id="tspan3165">state, airport_name</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3399"
+       transform="translate(-8.9230673,-42.109785)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3383"
+         width="145.37074"
+         height="36.764343"
+         x="264.65842"
+         y="239.53925"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <g
+         transform="translate(131.77884,28.326294)"
+         id="g3305">
+        <g
+           id="g3303"
+           transform="translate(-154.432,41.510857)">
+          <g
+             transform="translate(23.810508,-11.905254)"
+             id="g3327">
+            <text
+               transform="translate(22.65316,-69.83715)"
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="301.20084"
+               y="261.50162"
+               id="text3285"><tspan
+                 sodipodi:role="line"
+                 id="tspan3283"
+                 x="301.20084"
+                 y="261.50162"
+                 style="font-size:7.76111126px;stroke-width:0.26458332">Aggregate</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="270.62396"
+               y="213.72258"
+               id="text3289"><tspan
+                 sodipodi:role="line"
+                 id="tspan3287"
+                 x="270.62396"
+                 y="213.72258"
+                 style="font-size:7.76111126px;stroke-width:0.26458332">Functions</tspan></text>
+            <text
+               id="text3293"
+               y="202.03731"
+               x="270.62396"
+               style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 style="font-size:7.76111126px;stroke-width:0.26458332"
+                 y="202.03731"
+                 x="270.62396"
+                 id="tspan3291"
+                 sodipodi:role="line">Keys</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="313.18597"
+               y="212.5289"
+               id="text3297"><tspan
+                 sodipodi:role="line"
+                 x="313.18597"
+                 y="212.5289"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+                 id="tspan3295">state, airport_name</tspan></text>
+            <text
+               id="text3301"
+               y="201.71524"
+               x="313.81464"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 id="tspan3299"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+                 y="201.71524"
+                 x="313.81464"
+                 sodipodi:role="line">max(DepDelay)</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3410"
+       transform="translate(274.41203,46.799963)">
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="213.76724"
+         x="12.933816"
+         height="28.348562"
+         width="82.14975"
+         id="rect3401"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text3405"
+         y="230.83488"
+         x="40.599174"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="230.83488"
+           x="40.599174"
+           id="tspan3403"
+           sodipodi:role="line">Collect</tspan></text>
+    </g>
+    <g
+       id="g3575"
+       transform="translate(-45.45977,9.3312139)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2923"
+         width="97.339203"
+         height="33.480145"
+         x="169.12564"
+         y="132.7605"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="171.14398"
+         y="150.39951"
+         id="text2929"><tspan
+           sodipodi:role="line"
+           id="tspan2925"
+           x="171.14398"
+           y="150.39951"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">airport_id, state,</tspan><tspan
+           sodipodi:role="line"
+           x="171.14398"
+           y="160.10089"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+           id="tspan2927">name AS airport_name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="204.00461"
+         y="141.50534"
+         id="text2933"><tspan
+           sodipodi:role="line"
+           id="tspan2931"
+           x="204.00461"
+           y="141.50534"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Project</tspan></text>
+    </g>
+    <g
+       transform="translate(-164.8979,9.3312139)"
+       id="g3589">
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="132.7605"
+         x="169.12564"
+         height="33.480145"
+         width="97.339203"
+         id="rect3577"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text3583"
+         y="150.39951"
+         x="171.14398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+           y="150.39951"
+           x="171.14398"
+           id="tspan3579"
+           sodipodi:role="line">originAirportID,</tspan><tspan
+           id="tspan3581"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+           y="160.10089"
+           x="171.14398"
+           sodipodi:role="line">DepDelay</tspan></text>
+      <text
+         id="text3587"
+         y="141.50534"
+         x="204.00461"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="141.50534"
+           x="204.00461"
+           id="tspan3585"
+           sodipodi:role="line">Project</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,0.80330207,-0.80330207,0,339.04774,183.63785)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g3615">
+      <title
+         id="title3611">Buffer Small</title>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         id="path3613" />
+    </g>
+    <rect
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3617"
+       width="145.37074"
+       height="36.764343"
+       x="255.73535"
+       y="197.42946"
+       rx="2.6011376"
+       ry="2.3159833" />
+    <text
+       id="text3621"
+       y="207.48657"
+       x="308.36044"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="207.48657"
+         x="308.36044"
+         id="tspan3619"
+         sodipodi:role="line">Aggregate</tspan></text>
+    <text
+       id="text3625"
+       y="229.54469"
+       x="262.85825"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111126px;stroke-width:0.26458332"
+         y="229.54469"
+         x="262.85825"
+         id="tspan3623"
+         sodipodi:role="line">Functions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="262.85825"
+       y="217.85942"
+       id="text3629"><tspan
+         sodipodi:role="line"
+         id="tspan3627"
+         x="262.85825"
+         y="217.85942"
+         style="font-size:7.76111126px;stroke-width:0.26458332">Keys</tspan></text>
+    <text
+       id="text3633"
+       y="228.35101"
+       x="305.42026"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+         y="228.35101"
+         x="305.42026"
+         sodipodi:role="line">state, airport_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="306.04892"
+       y="217.53735"
+       id="text3637"><tspan
+         sodipodi:role="line"
+         x="306.04892"
+         y="217.53735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+         id="tspan3635">max(DepDelay)</tspan></text>
+    <g
+       id="g3651"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,339.04774,183.63785)">
+      <title
+         id="title3647">Buffer Small</title>
+      <path
+         id="path3649"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <path
+       id="path3655"
+       d="m 330.54613,140.83113 -2.12541,5.31351 -2.1254,-5.31351 z"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.21254033;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g3674"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,339.04774,69.678174)">
+      <title
+         id="title3670">Buffer Small</title>
+      <path
+         id="path3672"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <g
+       id="g3680"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,182.96249,128.3001)">
+      <title
+         id="title3676">Buffer Small</title>
+      <path
+         id="path3678"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <g
+       transform="matrix(0,0.80330207,-0.80330207,0,63.524359,128.3001)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g3700">
+      <title
+         id="title3696">Buffer Small</title>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         id="path3698" />
+    </g>
+    <g
+       id="g3706"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,124.06448,187.84574)">
+      <title
+         id="title3702">Buffer Small</title>
+      <path
+         id="path3704"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3712"
+       d="m 328.40802,191.81996 0.0254,-20.79391"
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 328.40802,141.01991 0.0254,-20.79391"
+       id="path3714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3716"
+       d="m 172.32277,141.01991 0.0254,-18.68996"
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.884642,141.01991 c 0,-19.66547 -7.287094,-22.08836 -7.287094,-36.07317"
+       id="path3718"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3724"
+       d="m 113.43723,195.98921 c 0,-14.42404 -60.527188,-6.94937 -60.527188,-20.4523"
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.48903,195.98921 c 0,-14.42404 60.5272,-6.94937 60.5272,-20.4523"
+       id="path3726"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 328.25815,78.168075 c 0,-8.346711 -76.99937,-12.898629 -77.09571,5.743661 l -0.71939,139.200284 c 0,20.13274 -136.99289,30.47602 -136.99289,6.77574"
+       id="path3728"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Parsed DAG"
+     style="display:inline">
+    <g
+       id="g2559"
+       transform="translate(5.2355239,-87.537893)">
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="95.728493"
+         x="67.783882"
+         height="28.348562"
+         width="82.14975"
+         id="rect968"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(0,4.0714887)"
+         id="g980">
+        <g
+           transform="translate(-4.7103968e-6,-0.71842672)"
+           id="g987">
+          <text
+             id="text873"
+             y="104.21275"
+             x="69.937622"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+               y="104.21275"
+               x="69.937622"
+               id="tspan871"
+               sodipodi:role="line">InMemoryTableScan</tspan><tspan
+               id="tspan875"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+               y="113.91414"
+               x="69.937622"
+               sodipodi:role="line" /></text>
+          <text
+             id="text879"
+             y="113.33973"
+             x="83.083748"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+               y="113.33973"
+               x="83.083748"
+               id="tspan877"
+               sodipodi:role="line">flight_data</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2549"
+       transform="translate(33.237593,-80.586818)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect989"
+         width="92.823441"
+         height="28.348564"
+         x="205.06168"
+         y="88.77742"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <g
+         id="g996">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="226.58516"
+           y="101.01121"
+           id="text883"><tspan
+             sodipodi:role="line"
+             x="226.58516"
+             y="101.01121"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+             id="tspan887">CSV FileScan</tspan><tspan
+             sodipodi:role="line"
+             x="226.58516"
+             y="110.71259"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+             id="tspan885" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="206.50175"
+           y="109.34525"
+           id="text923"><tspan
+             sodipodi:role="line"
+             id="tspan921"
+             x="206.50175"
+             y="109.34525"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">./data/airports.csv</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2629"
+       transform="translate(-5.4333889,-86.406342)">
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="139.68265"
+         x="241.47478"
+         height="33.480145"
+         width="97.339203"
+         id="rect998"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(-122.33675,52.136798)"
+         id="g1005">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="365.82986"
+           y="105.18485"
+           id="text895"><tspan
+             sodipodi:role="line"
+             id="tspan893"
+             x="365.82986"
+             y="105.18485"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">airport_id, state,</tspan><tspan
+             sodipodi:role="line"
+             x="365.82986"
+             y="114.88624"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332"
+             id="tspan966">name AS airport_name</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="398.69049"
+           y="96.290688"
+           id="text929"><tspan
+             sodipodi:role="line"
+             id="tspan927"
+             x="398.69049"
+             y="96.290688"
+             style="font-size:7.76111126px;stroke-width:0.26458332">Project</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2564"
+       transform="translate(14.594634,-70.335534)">
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="173.82913"
+         x="133.81276"
+         height="28.348562"
+         width="82.14975"
+         id="rect1025"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text933"
+         y="190.17485"
+         x="168.36572"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="190.17485"
+           x="168.36572"
+           id="tspan931"
+           sodipodi:role="line">Join</tspan></text>
+    </g>
+    <g
+       id="g2569"
+       transform="translate(-0.1048597,-70.684075)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1023"
+         width="82.14975"
+         height="28.348562"
+         x="148.51225"
+         y="219.26338"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <text
+         id="text937"
+         y="235.45941"
+         x="169.52686"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="235.45941"
+           x="169.52686"
+           id="tspan935"
+           sodipodi:role="line">Aggregate</tspan></text>
+    </g>
+    <g
+       id="g2577"
+       transform="translate(176.83407,100.39969)">
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1007"
+         width="82.14975"
+         height="28.348562"
+         x="-28.42668"
+         y="93.265327"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <g
+         transform="translate(33.871403,4.975628)"
+         id="g1013">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-31.218292"
+           y="101.01121"
+           id="text941"><tspan
+             sodipodi:role="line"
+             id="tspan939"
+             x="-31.218292"
+             y="101.01121"
+             style="font-size:7.76111126px;stroke-width:0.26458332">Filter</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-40.08374"
+           y="109.68921"
+           id="text945"><tspan
+             sodipodi:role="line"
+             id="tspan943"
+             x="-40.08374"
+             y="109.68921"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';stroke-width:0.26458332">state=TX</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0,0.80330207,-0.80330207,0,200.10928,134.7877)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use12446">
+      <title
+         id="title2775">Buffer Small</title>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         id="path2777" />
+    </g>
+    <path
+       transform="translate(0,-68.399993)"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path12448"
+       d="m 284.77528,118.0227 -0.12859,-13.10134"
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g3813">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 189.54656,258.10373 -0.12859,-12.9562"
+         id="path2807"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         transform="translate(0,-68.399993)" />
+      <g
+         transform="matrix(0,0.80330207,-0.80330207,0,200.10928,179.87341)"
+         style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g2789">
+        <title
+           id="title2785">Buffer Small</title>
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+           id="path2787" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0,0.80330207,-0.80330207,0,200.10928,89.701986)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g2795">
+      <title
+         id="title2791">Buffer Small</title>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         id="path2793" />
+    </g>
+    <g
+       id="g2801"
+       style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0,0.80330207,-0.80330207,0,295.338,39.484697)">
+      <title
+         id="title2797">Buffer Small</title>
+      <path
+         id="path2799"
+         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+    <path
+       transform="translate(0,-68.399993)"
+       style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 189.54656,213.23641 -0.12859,-12.9562"
+       id="path2803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="translate(0,-68.399993)"
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 189.82967,166.49821 c 0,-30.2702 -75.79968,-26.36987 -75.79968,-61.57685"
+       id="path2809"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="translate(0,-68.399993)"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2811"
+       d="m 189.9476,166.344 c -3.44321,-10.47698 94.6991,0.569 94.6991,-11.15179"
+       style="fill:none;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4387"
+       width="82.14975"
+       height="28.348562"
+       x="247.65424"
+       y="193.66502"
+       rx="2.6011376"
+       ry="2.3159833" />
+    <g
+       transform="translate(309.95231,105.37533)"
+       id="g4397">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-34.632717"
+         y="105.35734"
+         id="text4391"><tspan
+           sodipodi:role="line"
+           id="tspan4389"
+           x="-34.632717"
+           y="105.35734"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Collect</tspan></text>
+    </g>
+    <g
+       id="g4409"
+       transform="rotate(-90,225.65539,171.66618)">
+      <path
+         transform="translate(0,-68.399993)"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4401"
+         d="m 189.54656,258.10373 -0.12859,-12.9562"
+         style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g4407"
+         style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0,0.80330207,-0.80330207,0,200.10928,179.87341)">
+        <title
+           id="title4403">Buffer Small</title>
+        <path
+           id="path4405"
+           d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Catalyst"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="151.02271"
+       y="218.28926"
+       id="text4020"><tspan
+         sodipodi:role="line"
+         id="tspan4018"
+         x="151.02271"
+         y="225.15602"
+         style="font-size:7.76111126px;stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.67886"
+       y="201.05037"
+       id="text3923"><tspan
+         sodipodi:role="line"
+         id="tspan3921"
+         x="283.67886"
+         y="201.05037"
+         style="font-size:7.76111126px;stroke-width:0.26458332">Code generation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.35297"
+       y="32.47784"
+       id="text3931"><tspan
+         sodipodi:role="line"
+         id="tspan3929"
+         x="283.35297"
+         y="32.47784"
+         style="stroke-width:0.26458332">Parsing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="284.05405"
+       y="66.578262"
+       id="text3935"><tspan
+         sodipodi:role="line"
+         id="tspan3933"
+         x="284.05405"
+         y="66.578262"
+         style="stroke-width:0.26458332">Analysis (Name resolution)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.35297"
+       y="100.5724"
+       id="text3939"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="283.35297"
+         y="100.5724"
+         style="stroke-width:0.26458332">Rule-based logical optim.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.35297"
+       y="134.56656"
+       id="text3943"><tspan
+         sodipodi:role="line"
+         id="tspan3941"
+         x="283.35297"
+         y="134.56656"
+         style="stroke-width:0.26458332">Physical plans generation</tspan></text>
+    <text
+       id="text3954"
+       y="168.5607"
+       x="283.67886"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="168.5607"
+         x="283.67886"
+         id="tspan3952"
+         sodipodi:role="line">Cost-based selection</tspan></text>
+    <g
+       id="g4207"
+       transform="translate(9.3596146,-0.99406166)">
+      <g
+         transform="rotate(90,155.44569,71.916941)"
+         id="g4040">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           id="path3815"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g3821">
+          <title
+             id="title3817">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path3819" />
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path3833"
+           d="m 120.90902,33.457947 -15.8812,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3839"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title3835">Buffer Small</title>
+          <path
+             id="path3837"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+      </g>
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3976"
+         width="130.91774"
+         height="14.124558"
+         x="128.38152"
+         y="109.36015"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="151.02271"
+         y="118.56355"
+         id="text3866"><tspan
+           sodipodi:role="line"
+           id="tspan3864"
+           x="151.02271"
+           y="118.56355"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Optimized logical plan</tspan></text>
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="75.365997"
+         x="128.38152"
+         height="14.124558"
+         width="130.91774"
+         id="rect3966"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text3874"
+         y="84.569405"
+         x="170.94466"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="84.569405"
+           x="170.94466"
+           id="tspan3872"
+           sodipodi:role="line">Logical plan</tspan></text>
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="41.371849"
+         x="128.38152"
+         height="14.124558"
+         width="130.91774"
+         id="rect3886"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="131.60855"
+         y="50.575256"
+         id="text3882"><tspan
+           sodipodi:role="line"
+           id="tspan3880"
+           x="131.60855"
+           y="50.575256"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Parsed (Unresolved) logical plan</tspan></text>
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3960"
+         width="130.91774"
+         height="14.124558"
+         x="128.38152"
+         y="7.3777037"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <text
+         id="text3890"
+         y="16.58111"
+         x="147.0853"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="16.58111"
+           x="147.0853"
+           id="tspan3888"
+           sodipodi:role="line">Spark DataFrame object</tspan></text>
+      <rect
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4008"
+         width="130.91774"
+         height="14.124558"
+         x="128.38152"
+         y="175.84396"
+         rx="2.6011376"
+         ry="2.3159833" />
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="209.08586"
+         x="128.38152"
+         height="14.124558"
+         width="130.91774"
+         id="rect4030"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         ry="2.3159833"
+         rx="2.6011376"
+         y="143.35429"
+         x="128.38152"
+         height="14.124558"
+         width="130.91774"
+         id="rect3990"
+         style="opacity:0.95999995;fill:#d5e5ff;fill-opacity:1;stroke:#000000;stroke-width:0.35345694;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="166.58092"
+         y="152.55769"
+         id="text3958"><tspan
+           sodipodi:role="line"
+           id="tspan3956"
+           x="166.58092"
+           y="152.55769"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Physical plans</tspan></text>
+      <text
+         id="text3994"
+         y="185.04736"
+         x="150.32245"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.76111126px;stroke-width:0.26458332"
+           y="185.04736"
+           x="150.32245"
+           id="tspan3992"
+           sodipodi:role="line">Selected physical plan</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="174.73888"
+         y="218.28926"
+         id="text4016"><tspan
+           sodipodi:role="line"
+           id="tspan4014"
+           x="174.73888"
+           y="218.28926"
+           style="font-size:7.76111126px;stroke-width:0.26458332">Execution</tspan></text>
+      <g
+         id="g4058"
+         transform="rotate(90,138.43347,88.92916)">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4042"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g4048"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title4044">Buffer Small</title>
+          <path
+             id="path4046"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -15.8812,0.12859"
+           id="path4050"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g4056">
+          <title
+             id="title4052">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path4054" />
+        </g>
+      </g>
+      <g
+         transform="rotate(90,121.43639,105.92624)"
+         id="g4076">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           id="path4060"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g4066">
+          <title
+             id="title4062">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path4064" />
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4068"
+           d="m 120.90902,33.457947 -15.8812,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g4074"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title4070">Buffer Small</title>
+          <path
+             id="path4072"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+      </g>
+      <g
+         id="g4094"
+         transform="rotate(90,104.43932,122.92331)">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4078"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g4084"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title4080">Buffer Small</title>
+          <path
+             id="path4082"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -15.8812,0.12859"
+           id="path4086"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g4092">
+          <title
+             id="title4088">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path4090" />
+        </g>
+      </g>
+      <g
+         transform="rotate(90,88.194487,139.16814)"
+         id="g4112">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           id="path4096"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g4102">
+          <title
+             id="title4098">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path4100" />
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4104"
+           d="m 120.90902,33.457947 -14.57491,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g4110"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title4106">Buffer Small</title>
+          <path
+             id="path4108"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+      </g>
+      <g
+         id="g4130"
+         transform="rotate(90,71.573537,155.78909)">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4114"
+           d="m 120.90902,33.457947 -12.9562,0.12859"
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g4120"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)">
+          <title
+             id="title4116">Buffer Small</title>
+          <path
+             id="path4118"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+        </g>
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.58097279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 120.90902,33.457947 -15.22806,0.12859"
+           id="path4122"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="matrix(0.80330207,0,0,0.80330207,111.0787,22.895227)"
+           style="fill:#000000;stroke:#000000;stroke-width:0.50481898;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g4128">
+          <title
+             id="title4124">Buffer Small</title>
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
+             id="path4126" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
